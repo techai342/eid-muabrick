@@ -29,7 +29,7 @@ export const MessageSection = () => {
           <div className="pt-6 border-t border-[#b5a886]/30 flex flex-col items-center">
             <span className="text-sm text-[#8a7f6b] uppercase tracking-widest mb-2">Warm Wishes From</span>
             <span className="font-sans text-xl sm:text-2xl font-medium tracking-wide flex items-center gap-2 text-[#a32a45] text-center">
-              Pak Namet Kahad Restaurant <Heart className="w-5 h-5 text-[#d9536d] fill-[#d9536d] animate-pulse shrink-0" />
+             Muhammad Arham t <Heart className="w-5 h-5 text-[#d9536d] fill-[#d9536d] animate-pulse shrink-0" />
             </span>
           </div>
         </div>
